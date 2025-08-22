@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ametrinemod",
+	"version": "${version}",
+	"name": "Ametrine Mod",
+	"description": "Everything ametrine by Conciliatory :p\nMurad-D-11 on GitHub.",
+	"authors": [
+		"Conciliatory!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/ametrinemod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.conciliatory.ametrinemod.AmetrineMod"
+		],
+		"fabric-datagen": [
+			"net.conciliatory.ametrinemod.AmetrineModDataGenerator"
+		],
+		"client": [
+			"net.conciliatory.ametrinemod.AmetrineModClient"
+		]
+	},
+	"mixins": [
+		"ametrinemod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
