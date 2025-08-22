@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "down": "ametrinemod:block/ametrine_block_purple",
+    "north": "ametrinemod:block/ametrine_block_180",
+    "east": "ametrinemod:block/ametrine_block",
+    "west": "ametrinemod:block/ametrine_block",
+    "south": "ametrinemod:block/ametrine_block_180",
+    "up": "ametrinemod:block/ametrine_block_yellow",
+    "particle": "ametrinemod:block/ametrine_block"
+  }
+}

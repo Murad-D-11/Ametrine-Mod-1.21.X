@@ -1,4 +1,6 @@
 {
   "item.ametrinemod.ametrine": "Ametrine",
-  "item.ametrinemod.raw_ametrine": "Raw Ametrine"
+  "item.ametrinemod.raw_ametrine": "Raw Ametrine",
+
+  "block.ametrinemod.ametrine_block": "Ametrine Block"
 }

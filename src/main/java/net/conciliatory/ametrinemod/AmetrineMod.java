@@ -6,6 +6,7 @@
 
 package net.conciliatory.ametrinemod;
 
+import net.conciliatory.ametrinemod.block.ModBlocks;
 import net.conciliatory.ametrinemod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -19,5 +20,6 @@ public class AmetrineMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
