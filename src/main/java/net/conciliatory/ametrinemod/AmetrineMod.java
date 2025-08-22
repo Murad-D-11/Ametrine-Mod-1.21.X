@@ -1,3 +1,9 @@
+/**
+ * TO-DO:
+ * 1. Create icon for the mod
+ * 2.
+ */
+
 package net.conciliatory.ametrinemod;
 
 import net.fabricmc.api.ModInitializer;
