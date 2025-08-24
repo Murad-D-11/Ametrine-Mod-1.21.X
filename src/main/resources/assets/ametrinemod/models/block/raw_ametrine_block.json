@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ametrinemod:block/raw_ametrine_block"
+  }
+}

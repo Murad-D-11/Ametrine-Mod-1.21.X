@@ -14,6 +14,7 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
     public static final Block AMETRINE_BLOCK = registerBlock("ametrine_block", new Block(AbstractBlock.Settings.create().strength(4f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+    public static final Block RAW_AMETRINE_BLOCK = registerBlock("raw_ametrine_block", new Block(AbstractBlock.Settings.create().strength(3f).requiresTool().sounds(BlockSoundGroup.STONE)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
@@ -29,6 +30,7 @@ public class ModBlocks {
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(entries -> {
             entries.add(ModBlocks.AMETRINE_BLOCK);
+            entries.add(ModBlocks.RAW_AMETRINE_BLOCK);
         });
     }
 }
