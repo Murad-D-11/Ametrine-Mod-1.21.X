@@ -1,0 +1,6 @@
+{
+  "parent": "ametrinemod:block/cube_all",
+  "textures": {
+    "all": "ametrinemod:block/ametrine_ore"
+  }
+}

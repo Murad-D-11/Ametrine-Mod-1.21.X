@@ -1,7 +1,7 @@
 /**
  * TO-DO:
  * 1. Create icon for the mod
- * 2.
+ * 2. Create new and renew existing textures
  */
 
 package net.conciliatory.ametrinemod;

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ametrinemod:ametrine_block",
+    "ametrinemod:raw_ametrine_block",
+    "ametrinemod:ametrine_ore",
+    "ametrinemod:ametrine_deepslate_ore"
+  ]
+}

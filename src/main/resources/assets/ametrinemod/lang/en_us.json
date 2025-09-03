@@ -4,6 +4,8 @@
 
   "block.ametrinemod.ametrine_block": "Ametrine Block",
   "block.ametrinemod.raw_ametrine_block": "Raw Ametrine Block",
+  "block.ametrinemod.ametrine_ore": "Ametrine Ore",
+  "block.ametrinemod.ametrine_deepslate_ore": "Ametrine Deepslate Ore",
 
   "itemgroup.ametrinemod": "Ametrine Mod"
 }
