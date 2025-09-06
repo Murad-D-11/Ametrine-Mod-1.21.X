@@ -23,6 +23,7 @@ public class ModItemGroups {
                       entries.add(ModBlocks.RAW_AMETRINE_BLOCK);
                       entries.add(ModBlocks.AMETRINE_ORE);
                       entries.add(ModBlocks.AMETRINE_DEEPSLATE_ORE);
+                      entries.add(ModItems.CHISEL);
                     }).build());
 
     public static void registerItemGroups() {

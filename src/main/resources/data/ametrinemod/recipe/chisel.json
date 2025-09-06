@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:breeze_rod"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "Z": {
+      "item": "ametrinemod:ametrine"
+    },
+    "Y": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "pattern": [
+    " YZ",
+    " X ",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ametrinemod:chisel"
+  }
+}
