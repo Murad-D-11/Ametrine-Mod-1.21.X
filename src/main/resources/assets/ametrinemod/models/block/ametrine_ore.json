@@ -1,5 +1,5 @@
 {
-  "parent": "ametrinemod:block/cube_all",
+  "parent": "minecraft:block/cube_all",
   "textures": {
     "all": "ametrinemod:block/ametrine_ore"
   }
